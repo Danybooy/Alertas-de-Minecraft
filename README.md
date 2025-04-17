@@ -5,7 +5,7 @@ Gente aquí les dejo unas de las alertas que he hecho por si a alguien le intere
 - [🎥 Ver video Tutorial](https://drive.google.com/file/d/1UM-xCI4DnIWnjjbewDTLMxWoR50_eUPS/view?usp=sharing)
   <br>
   <br>
-  <img src="./assets/Preview.PNG" width="400" style='border-radius: 10px;' />
+  <img src="./assets/Preview.PNG" width="400" styles="border-radius: 10px;" />
 
 
 
