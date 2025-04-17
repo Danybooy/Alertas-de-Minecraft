@@ -3,8 +3,8 @@ Gente aquí les dejo unas de las alertas que he hecho por si a alguien le intere
 - [📃 Archivo de las Alertas](https://drive.google.com/file/d/1Ti2_2nGeMxrg7fvJnLvVmA6bFHdsRm85/view?usp=sharing)
 
 - [🎥 Ver video Tutorial](https://drive.google.com/file/d/1UM-xCI4DnIWnjjbewDTLMxWoR50_eUPS/view?usp=sharing)
-- 
-  ![Vista previa]()
+  <br>
+  <br>
   <img src="./assets/Preview.PNG" width="400" />
 
 
