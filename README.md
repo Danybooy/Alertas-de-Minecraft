@@ -4,7 +4,9 @@ Gente aquí les dejo unas de las alertas que he hecho por si a alguien le intere
 
 - [🎥 Ver video Tutorial](https://drive.google.com/file/d/1UM-xCI4DnIWnjjbewDTLMxWoR50_eUPS/view?usp=sharing)
 - 
-  ![Vista previa](./assets/Preview.PNG)
+  ![Vista previa]()
+  <img src="./assets/Preview.PNG" width="400" />
+
 
 
 [Sigueme en Twitch 💜](https://www.twitch.tv/danybooy04)
